@@ -22,7 +22,7 @@ EDUCATION
 
 Work Experience
 ======
-* July 2025-August 2025: Intership student
+* July 2025-August 2025: Internship student
   * CiRA, Kyoto University
   * [Advisor: Prof.Risa Kawaguchi](https://sites.google.com/site/cawatchm/) 
   
