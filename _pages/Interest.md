@@ -8,8 +8,8 @@ author_profile: true
 
 **Soccer**
   * My position is **WF**. I excel at using speed to tear through defenses.
-Favorite players: *Mitoma*, *De Bruyne*
-Favorite teams: *Brighton*, *Manchester City*
+    * Favorite players: *Mitoma*, *De Bruyne*
+    * Favorite teams: *Brighton*, *Manchester City*
 
 
 
@@ -40,6 +40,7 @@ I’m currently trying to write a novel related to the complexity of reasoning (
 
     * *マーラー：交響曲第6番《悲劇的》*
       <img src="/images/MahlerNO6.jpg" width=500>
+
 
 
 
