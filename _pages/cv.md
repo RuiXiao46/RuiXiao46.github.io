@@ -23,8 +23,8 @@ EDUCATION
 Work Experience
 ======
 * July 2025-August 2025: Internship student
-  * CiRA, Kyoto University
-  * [Advisor: Prof.Risa Kawaguchi](https://sites.google.com/site/cawatchm/) 
+  * [CiRA, Kyoto University](https://www.cira.kyoto-u.ac.jp/)
+  * Advisor: [Prof.Risa Kawaguchi](https://sites.google.com/site/cawatchm/) 
   
 Skills
 ======
